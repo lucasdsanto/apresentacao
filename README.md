@@ -29,6 +29,6 @@ Here you will find projects developed during my Computer Science degree, as well
 
 [LinkedIn](https://www.linkedin.com/in/lucasdsanto/)
 
-[GitHub](https://github.com/CharmingAnjel)
+[[GitHub](https://github.com/CharmingAnjel)](https://github.com/LucasDSanto)
 
 [[[Dev.to](https://dev.to/)](https://dev.to/settings)](https://dev.to/lucasdsanto)
