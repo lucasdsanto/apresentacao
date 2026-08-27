@@ -1,40 +1,40 @@
-# 👋 Olá! Eu sou Lucas  
+# 👋 Hello! I'm Lucas  
 
-## 👨‍💻 Sobre mim  
-Sou estudante de **Ciência da Computação** iniciando minha jornada na área de tecnologia.  
-Atualmente, estou aprendendo programação, algoritmos e desenvolvimento web, sempre buscando evoluir meus conhecimentos através da prática. 🚀  
-Meu objetivo é me tornar um **Full Stack Developer**.  
+## 👨‍💻 About Me  
+I am a **Computer Science student** starting my journey in the technology field.  
+Currently, I am learning programming, algorithms, and web development, always seeking to improve my skills through practice. 🚀  
+My goal is to become a **Full Stack Developer**.  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🛠️ Technologies and Tools  
 
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=html,css,c,js,python,react,nodejs,git,github,vscode" />  
 </div>  
 
-### 📚 Atualmente estudando  
-- 🌐 **HTML5** — Estrutura de páginas web  
-- 🎨 **CSS3** — Estilização e layouts  
-- ⚡ **Lógica de Programação** — Algoritmos e raciocínio computacional  
-- 🔤 **C Language** — Fundamentos da programação  
+### 📚 Currently Learning  
+- 🌐 **HTML5** — Web page structure  
+- 🎨 **CSS3** — Styling and layouts  
+- ⚡ **Programming Logic** — Algorithms and computational thinking  
+- 🔤 **C Language** — Programming fundamentals  
 
-### 🚀 Planejando aprender  
-- ⚡ **JavaScript** — Interatividade e aplicações web  
-- 🐍 **Python** — Desenvolvimento e automação  
-- ⚛️ **React** — Interfaces modernas  
-- 🌐 **Node.js** — Backend escalável  
-- 🗄️ **Databases** — Armazenamento de dados  
-- 🔧 **Git & GitHub** — Controle de versão e colaboração  
-
----
-
-## 📂 Projetos  
-Aqui você encontrará projetos desenvolvidos durante minha graduação em **Ciência da Computação**, além de projetos pessoais criados para praticar e aprimorar minhas habilidades.  
+### 🚀 Planning to Learn  
+- ⚡ **JavaScript** — Interactivity and web applications  
+- 🐍 **Python** — Development and automation  
+- ⚛️ **React** — Modern user interfaces  
+- 🌐 **Node.js** — Scalable backend  
+- 🗄️ **Databases** — Data storage  
+- 🔧 **Git & GitHub** — Version control and collaboration  
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📂 Projects  
+Here you will find projects developed during my **Computer Science degree**, as well as personal projects created to practice and improve my programming skills.  
+
+---
+
+## 📊 GitHub Stats  
 
 <div align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=LucasDSanto&show_icons=true&theme=radical" alt="GitHub Stats" />  
@@ -43,7 +43,7 @@ Aqui você encontrará projetos desenvolvidos durante minha graduação em **Ci�
 
 ---
 
-## 📫 Onde me encontrar  
+## 📫 How to Reach Me  
 
 <div align="center">  
 
@@ -63,10 +63,10 @@ Aqui você encontrará projetos desenvolvidos durante minha graduação em **Ci�
 
 ---
 
-## 🎯 Meu objetivo  
-Continuar aprendendo e evoluindo na área de tecnologia, desenvolver meus primeiros projetos e construir minha carreira como desenvolvedor Full Stack.  
+## 🎯 My Goal  
+Keep learning and growing in the technology field, develop my first projects, and build my career as a **Full Stack Developer**.  
 
 ---
 
-⭐ **Obrigado por visitar meu perfil!**  
-💻 *Sempre aprendendo, sempre evoluindo.*  
+⭐ **Thanks for visiting my profile!**  
+💻 *Always learning, always evolving.*  
