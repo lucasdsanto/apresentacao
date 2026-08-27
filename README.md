@@ -31,4 +31,4 @@ Here you will find projects developed during my Computer Science degree, as well
 
 [GitHub](https://github.com/CharmingAnjel)
 
-[Dev.to](https://dev.to/)
+[[[Dev.to](https://dev.to/)](https://dev.to/settings)](https://dev.to/lucasdsanto)
